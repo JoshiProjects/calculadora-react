@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/calculadora-react/static/css/main.b404c62a.chunk.css",
-    "main.js": "/calculadora-react/static/js/main.5536f0ea.chunk.js",
-    "main.js.map": "/calculadora-react/static/js/main.5536f0ea.chunk.js.map",
-    "runtime~main.js": "/calculadora-react/static/js/runtime~main.7c8350ab.js",
-    "runtime~main.js.map": "/calculadora-react/static/js/runtime~main.7c8350ab.js.map",
-    "static/js/2.ae026ab9.chunk.js": "/calculadora-react/static/js/2.ae026ab9.chunk.js",
-    "static/js/2.ae026ab9.chunk.js.map": "/calculadora-react/static/js/2.ae026ab9.chunk.js.map",
-    "static/js/3.68d536b4.chunk.js": "/calculadora-react/static/js/3.68d536b4.chunk.js",
-    "static/js/3.68d536b4.chunk.js.map": "/calculadora-react/static/js/3.68d536b4.chunk.js.map",
-    "index.html": "/calculadora-react/index.html",
-    "precache-manifest.ecfc81730d50e5b77decd6b3cb75a48d.js": "/calculadora-react/precache-manifest.ecfc81730d50e5b77decd6b3cb75a48d.js",
-    "service-worker.js": "/calculadora-react/service-worker.js",
-    "static/css/main.b404c62a.chunk.css.map": "/calculadora-react/static/css/main.b404c62a.chunk.css.map",
-    "static/media/index.css": "/calculadora-react/static/media/RobotoMono-Light.c9166464.ttf"
+    "main.css": "/static/css/main.ece14ce2.chunk.css",
+    "main.js": "/static/js/main.5536f0ea.chunk.js",
+    "main.js.map": "/static/js/main.5536f0ea.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.cef9ab07.js",
+    "runtime~main.js.map": "/static/js/runtime~main.cef9ab07.js.map",
+    "static/js/2.ae026ab9.chunk.js": "/static/js/2.ae026ab9.chunk.js",
+    "static/js/2.ae026ab9.chunk.js.map": "/static/js/2.ae026ab9.chunk.js.map",
+    "static/js/3.68d536b4.chunk.js": "/static/js/3.68d536b4.chunk.js",
+    "static/js/3.68d536b4.chunk.js.map": "/static/js/3.68d536b4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8744fff9270fd2fd9ae3f53e6fa3fbd4.js": "/precache-manifest.8744fff9270fd2fd9ae3f53e6fa3fbd4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ece14ce2.chunk.css.map": "/static/css/main.ece14ce2.chunk.css.map",
+    "static/media/index.css": "/static/media/RobotoMono-Light.c9166464.ttf"
   }
 }
