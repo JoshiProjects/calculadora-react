@@ -60,8 +60,6 @@ export default class Calculator extends Component {
                     values[0] = "error"
 
             }
-            // values[0] = eval(`${values[0]} ${currentOperation} ${values[1]}`)
-            // values[1] = 0
 
             this.setState({
                 displayValue: values[0],
