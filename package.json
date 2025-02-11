@@ -1,9 +1,8 @@
 {
   "homepage": "https://joshiprojects.github.io/calculadora-react",
-  "name": "calculadoraJoshi",
+  "name": "calculadora",
   "version": "0.1.0",
   "private": true,
-  "main": "src/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^16.2.0",
